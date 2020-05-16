@@ -1,0 +1,12 @@
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache

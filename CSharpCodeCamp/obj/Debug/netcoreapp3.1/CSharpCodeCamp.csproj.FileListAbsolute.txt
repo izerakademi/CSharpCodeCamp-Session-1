@@ -1,0 +1,13 @@
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\bin\Debug\netcoreapp3.1\CSharpCodeCamp.exe
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\bin\Debug\netcoreapp3.1\CSharpCodeCamp.deps.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\bin\Debug\netcoreapp3.1\CSharpCodeCamp.runtimeconfig.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\bin\Debug\netcoreapp3.1\CSharpCodeCamp.runtimeconfig.dev.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\bin\Debug\netcoreapp3.1\CSharpCodeCamp.dll
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\bin\Debug\netcoreapp3.1\CSharpCodeCamp.pdb
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.csprojAssemblyReference.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.csproj.CoreCompileInputs.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.AssemblyInfoInputs.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.AssemblyInfo.cs
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.dll
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.pdb
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\CSharpCodeCamp\obj\Debug\netcoreapp3.1\CSharpCodeCamp.genruntimeconfig.cache

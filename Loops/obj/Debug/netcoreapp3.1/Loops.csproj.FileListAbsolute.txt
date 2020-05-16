@@ -1,0 +1,13 @@
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\IzerAcademy\source\repos\CSharpCodeCamp\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
